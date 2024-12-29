@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+.privacy-page {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.privacy-page h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.privacy-page h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.privacy-page p {
+    margin-bottom: 20px;
+}
+
+.privacy-page ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.privacy-page li {
+    margin-bottom: 10px;
+}
+
+.privacy-page a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.privacy-page a:hover {
+    color: #23527c;
+}
